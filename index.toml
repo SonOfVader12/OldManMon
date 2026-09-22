@@ -18,3 +18,13 @@ metafile = true
 file = "mods/fabric-api.pw.toml"
 hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
 metafile = true
+
+[[files]]
+file = "mods/factory-api.pw.toml"
+hash = "638e2e010e3a6d6e30a0d77d9e3c065fbea41549e74b480e42243dc6449c1b20"
+metafile = true
+
+[[files]]
+file = "mods/legacy4j.pw.toml"
+hash = "21713a65a7b3c3c29c90737aa86630a0a10a5b3894df14f8c9b84ffea311c5da"
+metafile = true
