@@ -1,2 +1,16 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/cobblemon-generation-spawns.pw.toml"
+hash = "0a28babe955df7c37ecc067ee2289217994d55619255b407b5ef8b7844525787"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "4ee82c782d240cf3bce3c939203ddc4f331e80c1f8e499208370f53bbc9ba6f3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
+metafile = true

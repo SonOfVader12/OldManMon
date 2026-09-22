@@ -1,0 +1,13 @@
+name = "Cobblemon: Generation Spawns"
+filename = "cobblemongenerationspawns-fabric-1.1.0-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7401acf5161bf907e1b8c53bbbfa7041699c483d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8390981
+project-id = 1583141
