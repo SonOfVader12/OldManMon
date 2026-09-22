@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "0a823c60ffe6d70e0d759cbd60b3bd1bc7352603db92cad265863ec84fee0725"
-
-[[files]]
 file = "mods/cobblemon-generation-spawns.pw.toml"
 hash = "48e54a7c05602c1b30813a612ed1cc4b7df054f54429f00e7ed5598333cccd24"
 metafile = true
