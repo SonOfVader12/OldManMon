@@ -1,6 +1,6 @@
 name = "Cobblemon: Generation Spawns"
 filename = "cobblemongenerationspawns-fabric-1.1.0-release.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
