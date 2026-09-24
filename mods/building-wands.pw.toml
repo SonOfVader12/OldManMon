@@ -1,0 +1,13 @@
+name = "Building Wands"
+filename = "BuildingWands-fabric-MC1.21.1-3.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XkisZUfp/versions/T514AZg8/BuildingWands-fabric-MC1.21.1-3.0.5.jar"
+hash-format = "sha512"
+hash = "905edd4dbf521bcae7da240d37b222c6fb9196f5840f7fbad20defebd11eb2de4619fc0f0c1021d8387a079a38fb626fbef3703e62cee98a43ed4caae938d791"
+
+[update]
+[update.modrinth]
+mod-id = "XkisZUfp"
+version = "T514AZg8"

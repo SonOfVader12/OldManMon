@@ -1,0 +1,13 @@
+name = "Status Effect Timer"
+filename = "statuseffecttimer-2.0.0+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/T9FDHbY5/versions/dcLJGbbM/statuseffecttimer-2.0.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "22b2dcdd494b753386eeb963efb3961003a6d70147ffe045110b853716956b4f18a3629d9b464059314bafc2a00de861cf8dbfa2fa5a4ec86d19db00f3087fde"
+
+[update]
+[update.modrinth]
+mod-id = "T9FDHbY5"
+version = "dcLJGbbM"
