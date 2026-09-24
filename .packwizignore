@@ -3,3 +3,5 @@
 
 # Exclude README
 /README.md
+/add_mods.py
+/Modlist.csv
