@@ -41,23 +41,18 @@ hash = "c5833c66008b22b8cdcbc719300e34f9e29a14f5c67789c0498451448ab40296"
 metafile = true
 
 [[files]]
-file = "mods/building-wands.pw.toml"
-hash = "9b5593d3506a603628f4222dd9d3b3aa0278517deab4edae0f0f31dbeccfcf11"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "3e39d76864c9d949c6fd793149d97480cccbbd114e3c25caf6773b4e612a825b"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "7fe287ca1bed0ad67f37e62a5816da7b7ae59486102c5e4b7532f0a999444527"
+file = "mods/cicada.pw.toml"
+hash = "e5196147e561521c5a3ebaea601191e442d252cc8f0a7be8ba8db136f93c44fe"
 metafile = true
 
 [[files]]
-file = "mods/cicada.pw.toml"
-hash = "e5196147e561521c5a3ebaea601191e442d252cc8f0a7be8ba8db136f93c44fe"
+file = "mods/clientsort.pw.toml"
+hash = "9699f11c1dd8806b5275d7f9136f562bca4806192fd99802a2799d23eeb26ba4"
 metafile = true
 
 [[files]]
@@ -108,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/configmanager.pw.toml"
 hash = "48eea561787fda4c303f60716c0266ab613e8d816642617515be3d04777189b2"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand-fabric.pw.toml"
+hash = "dd739f3873de08e81f7a519a2a89e58ce34b44f308eb25e92ca1cc50bea31cd8"
 metafile = true
 
 [[files]]
@@ -193,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/fast-item-frames.pw.toml"
 hash = "bd67ef9f73d699f8afff69dc2309618903211d6ccff65db487e6dd4fcb088885"
+metafile = true
+
+[[files]]
+file = "mods/faster-boats.pw.toml"
+hash = "8a8c750605a7e5ef113bde7323b08186808a17abce4a0b4e0146b228805c50eb"
 metafile = true
 
 [[files]]
@@ -358,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "869af67848bf3b9ba4384bc9fb0cbe303d35263bd8de75eeabcba796edf4d7c6"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
 metafile = true
 
 [[files]]

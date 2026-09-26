@@ -1,0 +1,13 @@
+name = "Faster Boats"
+filename = "faster-boats-1.0.6+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pCszlBGQ/versions/SsB9a0P6/faster-boats-1.0.6%2B1.21.jar"
+hash-format = "sha512"
+hash = "7c793003bb8966897d3947ba5293e14ac89b05b3a74ef990fb77624f243f94a4c2635e2348a82ba283dd78a262dd03b4457742d6fa296679eff81e249548fbff"
+
+[update]
+[update.modrinth]
+mod-id = "pCszlBGQ"
+version = "SsB9a0P6"
