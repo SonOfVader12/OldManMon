@@ -1,0 +1,13 @@
+name = "Cobblemon Spawn Filter - Gen 1: Kanto"
+filename = "SpawnFilter_Gen1_Cobblemon1.8.2_v2.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uFifduFD/versions/qMrJ96SW/SpawnFilter_Gen1_Cobblemon1.8.2_v2.0.zip"
+hash-format = "sha512"
+hash = "347ff17c2506d23d9e916e0a7e5375caf80c9ffd125c17b9d2481f95015cc09d628c505393b41440fb22442aa608b14f14c5ef8bbc2cb1eb276a6671e6f438ef"
+
+[update]
+[update.modrinth]
+mod-id = "uFifduFD"
+version = "qMrJ96SW"

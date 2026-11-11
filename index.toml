@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/datapacks/cobblemon-spawn-filter-gen-1-kanto.pw.toml"
+hash = "20cf091eb2d129c5362338214abceadc2196e1e95ea773a365ff3128e29bf2c7"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5285ba249b00d0d12a3cd1f64a5536e7618770dee31d3d240f9d4345ef69f888"
 metafile = true
@@ -336,6 +341,11 @@ hash = "c0fb35b9b9754549845f905fa6651d7edc5227599bb4e32c4829ca1a975cd93e"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "4d327db95d15a81aa38ca20bcdfd573a0537360c898622d13b263b2d9c06cd8d"
+metafile = true
+
+[[files]]
 file = "mods/pickup-notifications.pw.toml"
 hash = "d6de6e02902903a4f55f77ae9a50ae2cc0ea11f33366a7c6692de05992305a18"
 metafile = true
@@ -438,4 +448,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "b30757f7f10735b8eb53112494685bf9e5934d8df8729472f2827e1aa2197949"
 metafile = true
