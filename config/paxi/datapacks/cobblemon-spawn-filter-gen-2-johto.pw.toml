@@ -1,0 +1,13 @@
+name = "Cobblemon Spawn Filter - Gen 2: Johto"
+filename = "SpawnFilter_Gen2_Cobblemon1.8.2_v2.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CK75CjPJ/versions/V9vy1d4Z/SpawnFilter_Gen2_Cobblemon1.8.2_v2.0.zip"
+hash-format = "sha512"
+hash = "1411efdcc0782a6f0bdc8db4c19e86e70f4d49802e1052aeabd571fd02cc17fa080b72cb755636649708a25a51b877a9ce165c6a00bc815748a0fd03e91c382a"
+
+[update]
+[update.modrinth]
+mod-id = "CK75CjPJ"
+version = "V9vy1d4Z"

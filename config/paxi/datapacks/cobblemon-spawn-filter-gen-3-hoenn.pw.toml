@@ -1,0 +1,13 @@
+name = "Cobblemon Spawn Filter - Gen 3: Hoenn"
+filename = "SpawnFilter_Gen3_Cobblemon1.8.2_v2.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uA5jnNAT/versions/OeIVsz1D/SpawnFilter_Gen3_Cobblemon1.8.2_v2.0.zip"
+hash-format = "sha512"
+hash = "2cc3f03084786579f7705b29e011e3410bf6b15ed01ba1de786856ffcd19478e40c14a1106a11515b650eacf7d57256548654cecf32c72ee946febae6dfe5dad"
+
+[update]
+[update.modrinth]
+mod-id = "uA5jnNAT"
+version = "OeIVsz1D"

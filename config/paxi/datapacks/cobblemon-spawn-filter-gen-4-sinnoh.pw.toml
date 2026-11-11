@@ -1,0 +1,13 @@
+name = "Cobblemon Spawn Filter - Gen 4: Sinnoh"
+filename = "SpawnFilter_Gen4_Cobblemon1.8.2_v2.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vjrQGk3P/versions/MYncDfaF/SpawnFilter_Gen4_Cobblemon1.8.2_v2.0.zip"
+hash-format = "sha512"
+hash = "649af5c54d4f905c84d58b4e051efa0edbafba3141eccb57d8ddb5d9109cd5061387c159e5af1aefe560b94e6620309fc0886174413c1ef39de5613e8617b909"
+
+[update]
+[update.modrinth]
+mod-id = "vjrQGk3P"
+version = "MYncDfaF"

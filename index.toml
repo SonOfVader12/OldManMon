@@ -6,6 +6,21 @@ hash = "20cf091eb2d129c5362338214abceadc2196e1e95ea773a365ff3128e29bf2c7"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/cobblemon-spawn-filter-gen-2-johto.pw.toml"
+hash = "e6d91e5ffed53653e6898514c69dcf1009f8b18ef04d9de660f9b6582408025e"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/cobblemon-spawn-filter-gen-3-hoenn.pw.toml"
+hash = "22cd04ef328a25e5e991abe14a57a28ec6ca2a5ef9d70a53a6f8a600346db6db"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/cobblemon-spawn-filter-gen-4-sinnoh.pw.toml"
+hash = "1440c92170eb9b13782bbcf6dcdefa18b667e0b49886d5f3a1de8727045af2b9"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5285ba249b00d0d12a3cd1f64a5536e7618770dee31d3d240f9d4345ef69f888"
 metafile = true
