@@ -286,6 +286,11 @@ hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "6507abf4b8a62f88641ff236e708e940268844f3c717e4c799c4848077b2f0bf"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "b0839deef52b194fba02e19e4fec17248a6c5457200e623da44eafc34456bb78"
 metafile = true
@@ -403,6 +408,16 @@ metafile = true
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
 hash = "7be1b8d2ea266e422f7f29a7ad3982597e44b82df6e841ddc67278bf5d314fa3"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "f1bfac1c5060b9e0ec9166de25bce8305d16dee48fb31583380567c37ee6b349"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "66e1ed3e329e3ffa72a59acf74fae153157e6fb7d836afedb687b61ec2d8113a"
 metafile = true
 
 [[files]]
