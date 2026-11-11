@@ -1,0 +1,13 @@
+name = "Better Cobblemon Spectation"
+filename = "BattleCam-2.0.0-1.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MpFeVYoR/versions/R5sI3yFR/BattleCam-2.0.0-1.8.jar"
+hash-format = "sha512"
+hash = "61d1f7407bd97ee57004525a463fa7ede6015a2b6ae8e7f71072e4d48800f385a9382172d2b2b603f692d3133798e43b7c2f5ba225a53495d58468cb9e428877"
+
+[update]
+[update.modrinth]
+mod-id = "MpFeVYoR"
+version = "R5sI3yFR"

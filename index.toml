@@ -6,6 +6,11 @@ hash = "5285ba249b00d0d12a3cd1f64a5536e7618770dee31d3d240f9d4345ef69f888"
 metafile = true
 
 [[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+hash = "36b311ab2c828ad8c490b539ae0cffdac8438be7c997a71a1c782af924114c15"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
+metafile = true
+
+[[files]]
+file = "mods/better-cobblemon-spectation.pw.toml"
+hash = "5a04bf48e9cce03c59de16d39fa2e1fcfd4a64888170e024a9d565ec39ca56ac"
 metafile = true
 
 [[files]]
@@ -83,6 +93,16 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
 hash = "c1a356984efffe74b6e503e8830eb77b4ad48015c45c57c27c5bbb78db8214a8"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-detail-viewer.pw.toml"
+hash = "b546e56d55f6292eca527fee5a5736e925f355503d6f43f298a4b25523d8046b"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-shiny-days.pw.toml"
+hash = "b8ee1ba3d723a48df44b29aeb2fe93a0a612e0db05e113fd31889b7da33e92d8"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Cobblemon Detail Viewer"
+filename = "cobblemon-detail-viewer-1.6.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qHpht0Ug/versions/QVNfpdFs/cobblemon-detail-viewer-1.6.3.jar"
+hash-format = "sha512"
+hash = "d6bfc1e4c07304a3bf5fc661fac9c47699530206af6b5bb26484a673da712c2465a29e4f689463e4e01fc38532ae70803afd7bff6abae722c0528480284c64a2"
+
+[update]
+[update.modrinth]
+mod-id = "qHpht0Ug"
+version = "QVNfpdFs"
