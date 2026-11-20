@@ -76,6 +76,11 @@ hash = "3e39d76864c9d949c6fd793149d97480cccbbd114e3c25caf6773b4e612a825b"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "0c345c80310a4bd58c757e43d6060338a85d34eaffcb674a6e9cbf22ecbc9cb8"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "e5196147e561521c5a3ebaea601191e442d252cc8f0a7be8ba8db136f93c44fe"
 metafile = true
@@ -371,11 +376,6 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
-file = "mods/pokebelt-cobblemon.pw.toml"
-hash = "3af228651b35a90f4f7815ea54c14802fb5d044661e0790a19bbdf646a87fa39"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "ad447a2dd2f75a48a4bea59bc2d709a9af427aa7583fede93c8b864a0fe0ac88"
 metafile = true
@@ -443,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "66e1ed3e329e3ffa72a59acf74fae153157e6fb7d836afedb687b61ec2d8113a"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "437f142da53062e81dd84c796594e075d0993e88bd31e5b63232acd42bc4f39f"
 metafile = true
 
 [[files]]
