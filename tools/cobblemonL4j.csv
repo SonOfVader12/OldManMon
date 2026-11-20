@@ -103,13 +103,13 @@ cobblemon:eject_button,other
 cobblemon:eject_pack,other
 cobblemon:electirizer,evolution_items
 cobblemon:electric_gem_block,gem
-cobblemon:eviolite,held_item
+cobblemon:eviolite,held_items
 cobblemon:exp_candy_l,consumables
 cobblemon:exp_candy_m,consumables
 cobblemon:exp_candy_s,consumables
 cobblemon:exp_candy_xs,consumables
-cobblemon:exp_share,held_item
-cobblemon:expert_belt,held_item
+cobblemon:exp_share,held_items
+cobblemon:expert_belt,held_items
 cobblemon:fairy_feather,consumables
 cobblemon:fairy_gem_block,gem
 cobblemon:fast_ball,pokeballs

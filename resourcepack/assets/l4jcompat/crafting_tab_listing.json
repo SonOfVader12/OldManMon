@@ -1,0 +1,77 @@
+[
+    {
+        "id": "l4jcompat:cobblemonl4j",
+        "icon": {
+            "type": "item",
+            "value": {
+                "item": "cobblemon:apricorn_boat"
+            }
+        },
+        "name": {
+            "translate": "legacy.container.tab.cobblemonl4j",
+            "fallback": "Cobblemonl4J"
+        },
+        "listing": [
+            {
+                "group": "apricorns",
+                "recipes": [
+                    "#l4jcompat:cobblemonl4j_apricorns"
+                ]
+            },
+            {
+                "group": "berries",
+                "recipes": [
+                    "#l4jcompat:cobblemonl4j_berries"
+                ]
+            },
+            {
+                "group": "consumables",
+                "recipes": [
+                    "#l4jcompat:cobblemonl4j_consumables"
+                ]
+            },
+            {
+                "group": "cooking",
+                "recipes": [
+                    "#l4jcompat:cobblemonl4j_cooking"
+                ]
+            },
+            {
+                "group": "evolution_items",
+                "recipes": [
+                    "#l4jcompat:cobblemonl4j_evolution_items"
+                ]
+            },
+            {
+                "group": "gem",
+                "recipes": [
+                    "#l4jcompat:cobblemonl4j_gem"
+                ]
+            },
+            {
+                "group": "healing",
+                "recipes": [
+                    "#l4jcompat:cobblemonl4j_healing"
+                ]
+            },
+            {
+                "group": "held_items",
+                "recipes": [
+                    "#l4jcompat:cobblemonl4j_held_items"
+                ]
+            },
+            {
+                "group": "other",
+                "recipes": [
+                    "#l4jcompat:cobblemonl4j_other"
+                ]
+            },
+            {
+                "group": "pokeballs",
+                "recipes": [
+                    "#l4jcompat:cobblemonl4j_pokeballs"
+                ]
+            }
+        ]
+    }
+]

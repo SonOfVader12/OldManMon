@@ -474,3 +474,8 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "b30757f7f10735b8eb53112494685bf9e5934d8df8729472f2827e1aa2197949"
 metafile = true
+
+[[files]]
+file = "world/datapacks/datapack.pw.toml"
+hash = "ab3f0628d7ba318ef581194692656be7da865ccf9ae0f504e945a23a2d1f38f0"
+metafile = true

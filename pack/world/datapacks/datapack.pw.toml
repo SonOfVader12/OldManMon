@@ -1,0 +1,8 @@
+name = "Datapack"
+filename = "datapack.zip"
+side = "server"
+
+[download]
+url = "https://github.com/SonOfVader12/OldManMon/releases/download/v20261120-1018/datapack.zip"
+hash-format = "sha256"
+hash = "e4dd5a740b8c71a0945aafe17bd7406df8c7aac35fb6bd07ff6b569921afc040"
