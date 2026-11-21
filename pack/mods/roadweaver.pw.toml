@@ -1,13 +1,13 @@
 name = "RoadWeaver"
-filename = "roadweaver-fabric-2.3.1-1.21.1-hotfix.jar"
+filename = "roadweaver-fabric-2.3.2-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6jk8Pote/versions/rUmD6cZc/roadweaver-fabric-2.3.1-1.21.1-hotfix.jar"
+url = "https://cdn.modrinth.com/data/6jk8Pote/versions/zeuoLu1S/roadweaver-fabric-2.3.2-1.21.1.jar"
 hash-format = "sha512"
-hash = "4d2e06b0a20327d2b61aa148e14d6af9a0995f077d316e87228646f1a703217a001f15bd023ddb923cbc89719ff53aa2e7543c6f23c26c9ad63737142bc5401b"
+hash = "f5566f684fe736d18675692f0009d430c5fcac4591dd171de4981a346488d5dc57a2a9f69d7abec69c3b164ddacf4be19bd466a915e852a585ed7e50c52a3152"
 
 [update]
 [update.modrinth]
 mod-id = "6jk8Pote"
-version = "rUmD6cZc"
+version = "zeuoLu1S"
