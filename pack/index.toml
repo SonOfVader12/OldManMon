@@ -61,11 +61,6 @@ hash = "5a04bf48e9cce03c59de16d39fa2e1fcfd4a64888170e024a9d565ec39ca56ac"
 metafile = true
 
 [[files]]
-file = "mods/betterf3.pw.toml"
-hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
-metafile = true
-
-[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "c5833c66008b22b8cdcbc719300e34f9e29a14f5c67789c0498451448ab40296"
 metafile = true
@@ -438,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "66e1ed3e329e3ffa72a59acf74fae153157e6fb7d836afedb687b61ec2d8113a"
+metafile = true
+
+[[files]]
+file = "mods/tick-stasis.pw.toml"
+hash = "08f7763d759fb7778ae0560e8adf66e4721fc6d9e46802f51ecced02716bdef3"
 metafile = true
 
 [[files]]
