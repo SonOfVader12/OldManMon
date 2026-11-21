@@ -1,0 +1,13 @@
+name = "Cobblemon Controller Support"
+filename = "cobblemon_controller_support-fabric-1.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf011954d7acc60982dde5db2623a47a57a7a132"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7957041
+project-id = 1404965
